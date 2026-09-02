@@ -79,7 +79,7 @@ python pipeline.py --train --bundle ajmc-de   # optional nur ein Bundle
 python summarize_energy.py
 ```
 
-Training direkt:
+Direktes Training:
 
 ```bash
 python -m src.train_reference --config config/settings.yaml --bundle ajmc-de
