@@ -1,4 +1,4 @@
-# Kleine-Anpassung-grosse-Wirkung-DH-Project-Roth# Kleine Anpassung, große Wirkung?
+# Kleine Anpassung, große Wirkung?
 
 QLoRA-Finetuning für Named Entity Recognition auf historischen deutschen
 Textkorpora (HIPE-2022), mit Energie-Tracking. Code zur gleichnamigen
